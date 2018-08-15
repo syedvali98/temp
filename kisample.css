@@ -1,3 +1,6 @@
+root{
+    font-family: 'Raleway', sans-serif;
+}
 .back{
     background: url("https://www.ki-labs.com/assets/images/headerbg.svg") no-repeat fixed  right;
     
@@ -11,11 +14,15 @@
     text-align: left;
     font-size: 25px;
         padding: 5vmin 4vmin 2vmin 0vmin;
+        font-family: 'Raleway', sans-serif;
+
 
 }
 .jumbo{
      text-align: left;
     padding: 12vmin 4vmin 2vmin 0vmin;
+        font-family: 'Raleway', sans-serif;
+
 }
 .discover{
     padding: 10vmin;
@@ -24,37 +31,52 @@
     margin-left: 20%;
     margin-right: 28%;
     color: white;
+
 }
 .jumbo1{
     text-align: left;
     padding: 40vmin 2vmin 2vmin 0;
+        font-family: 'Raleway', sans-serif;
+
 }
 .text1{
     text-align: left;
     font-size: 25px;
         padding: 5vmin 4vmin 2vmin 0vmin;
+        font-family: 'Raleway', sans-serif;
+
 }
 .jumbo2{
     text-align: left;
     padding: 20vmin 10vmin 2vmin 10vmin;
+        font-family: 'Raleway', sans-serif;
+
 }
 .text2{
     text-align: left;
     font-size: 25px;
         padding: 5vmin 10vmin 2vmin 10vmin;
+        font-family: 'Raleway', sans-serif;
+
 }
 .jumbo3{
     text-align: left;
     padding: 20vmin 10vmin 2vmin 10vmin;
+        font-family: 'Raleway', sans-serif;
+
 }
 .text3{
     text-align: left;
     font-size: 18px;
         padding: 5vmin 10vmin 2vmin 10vmin;
+        font-family: 'Raleway', sans-serif;
+
 }
 .jumbo4{
     text-align: center;
     padding: 20vmin 10vmin 2vmin 10vmin;
+        font-family: 'Raleway', sans-serif;
+
     color: aliceblue;
 }
 .img{
@@ -85,13 +107,18 @@
 }
 h4{
     color: white
+
 }
 .yext{
     color: yellow;
+        font-family: 'Raleway', sans-serif;
+
 }
 .text5{
     padding: 1vmin;
     color: aliceblue;
+        font-family: 'Raleway', sans-serif;
+
 }
 .footer{
     background: url("https://www.ki-labs.com/assets/images/ki-wave@2x.png")no-repeat fixed bottom;
@@ -102,7 +129,11 @@ h4{
     text-align: center;
     color: grey;
     padding: 2vmin;
+        font-family: 'Raleway', sans-serif;
+
 }
 .one{
     color: black;
+        font-family: 'Raleway', sans-serif;
+
 }
