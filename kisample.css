@@ -1,5 +1,5 @@
 .back{
-    background: url("https://image.freepik.com/free-vector/elegant-colorful-splash-watercolor-background-vector_1035-13815.jpg") no-repeat fixed  right;
+    background: url("https://www.ki-labs.com/assets/images/headerbg.svg") no-repeat fixed  right;
     
     height: 80vh;
 }
@@ -29,4 +29,63 @@
     text-align: left;
     font-size: 25px;
         padding: 5vmin 4vmin 2vmin 0vmin;
+}
+.jumbo2{
+    text-align: left;
+    padding: 20vmin 10vmin 2vmin 10vmin;
+}
+.text2{
+    text-align: left;
+    font-size: 25px;
+        padding: 5vmin 10vmin 2vmin 10vmin;
+}
+.jumbo3{
+    text-align: left;
+    padding: 20vmin 10vmin 2vmin 10vmin;
+}
+.text3{
+    text-align: left;
+    font-size: 18px;
+        padding: 5vmin 10vmin 2vmin 10vmin;
+}
+.jumbo4{
+    text-align: center;
+    padding: 20vmin 10vmin 2vmin 10vmin;
+    color: aliceblue;
+}
+.img{
+    padding: 0 0 0 0;
+    width: 90vh;
+    height: 100vh;
+    
+}
+.img1{
+    width: 40vh;
+    padding: 5vmin;
+    
+}
+.yellow{
+    background-color: yellow;
+}
+.non{
+    background-color: yellow;
+}
+.team{
+    padding: 5vmin 10vmin 10vmin 10vmin;
+    width: 70vmin;
+    height: 65vmin;
+}
+.back1{
+    background: url("https://images.pexels.com/photos/1040499/pexels-photo-1040499.jpeg?auto=compress&cs=tinysrgb&h=650&w=940") no-repeat fixed center;
+    background-size: cover;
+}
+h4{
+    color: white
+}
+.yext{
+    color: yellow;
+}
+.text5{
+    padding: 1vmin;
+    color: aliceblue;
 }
