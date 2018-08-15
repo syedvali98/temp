@@ -3,6 +3,10 @@
     
     height: 80vh;
 }
+.discover:hover{
+    background-color: yellow;
+    color: black;
+}
 .text{
     text-align: left;
     font-size: 25px;
