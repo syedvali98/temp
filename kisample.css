@@ -1,0 +1,23 @@
+.back{
+    background: url("https://image.freepik.com/free-vector/elegant-colorful-splash-watercolor-background-vector_1035-13815.jpg") no-repeat fixed  right;
+    
+    height: 80vh;
+}
+.text{
+    text-align: left;
+    font-size: 25px;
+        padding: 5vmin 4vmin 2vmin 0vmin;
+
+}
+.jumbo{
+     text-align: left;
+    padding: 12vmin 4vmin 2vmin 0vmin;
+}
+.discover{
+    padding: 10vmin;
+    background-color: black;
+    margin-top: 40%;
+    margin-left: 20%;
+    margin-right: 28%;
+    color: white;
+}
