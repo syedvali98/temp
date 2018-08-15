@@ -21,3 +21,12 @@
     margin-right: 28%;
     color: white;
 }
+.jumbo1{
+    text-align: left;
+    padding: 40vmin 2vmin 2vmin 0;
+}
+.text1{
+    text-align: left;
+    font-size: 25px;
+        padding: 5vmin 4vmin 2vmin 0vmin;
+}
