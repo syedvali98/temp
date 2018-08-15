@@ -93,3 +93,16 @@ h4{
     padding: 1vmin;
     color: aliceblue;
 }
+.footer{
+    background: url("https://www.ki-labs.com/assets/images/ki-wave@2x.png")no-repeat fixed bottom;
+    padding: 5vmin;
+    height: 40vh;
+}
+.footer-text{
+    text-align: center;
+    color: grey;
+    padding: 2vmin;
+}
+.one{
+    color: black;
+}
