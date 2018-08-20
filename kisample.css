@@ -2,9 +2,12 @@ root{
     font-family: 'Raleway', sans-serif;
 }
 .back{
-    background: url("https://www.ki-labs.com/assets/images/headerbg.svg") no-repeat fixed  right;
-    
+    background: url("https://cdn.pixabay.com/photo/2012/02/26/10/51/futuristic-17035_960_720.jpg") no-repeat fixed  right;
     height: 80vh;
+}
+.img-flask{
+    width: 55vh;
+    margin-left: 0vmin;
 }
 .discover:hover{
     background-color: yellow;
@@ -26,8 +29,8 @@ root{
 }
 .discover{
     padding: 10vmin;
-    background-color: black;
-    margin-top: 40%;
+    background-color: rgba(86, 102, 226, 0.49);
+    margin-top: 50%;
     margin-left: 20%;
     margin-right: 28%;
     color: white;
@@ -35,9 +38,25 @@ root{
 }
 .jumbo1{
     text-align: left;
-    padding: 40vmin 2vmin 2vmin 0;
+    padding: 10vmin 2vmin 2vmin 0;
         font-family: 'Raleway', sans-serif;
 
+}
+.spac{
+    margin-top: 10%;
+}
+.grey{
+    margin-top: 10vmin;
+    background-color: rgba(185, 170, 170, 0.21);
+}
+.pad-space{
+ margin: 0 0 -5% 0;
+}
+.pad-space1{
+ margin: -5% 0;
+}
+.sci-img1{
+    margin: -4% 0 -4% -5%;
 }
 .text1{
     text-align: left;
@@ -80,7 +99,7 @@ root{
     color: aliceblue;
 }
 .img{
-    padding: 0 0 0 0;
+    margin: -5% 0 0 0;
     width: 90vh;
     height: 100vh;
     
@@ -112,7 +131,9 @@ h4{
 .yext{
     color: yellow;
         font-family: 'Raleway', sans-serif;
-
+}
+.footer-img{
+    width: 180vmin;
 }
 .text5{
     padding: 1vmin;
@@ -136,4 +157,99 @@ h4{
     color: black;
         font-family: 'Raleway', sans-serif;
 
+}
+.mob-flex{
+    display: flex;
+    flex-direction: row;
+}
+
+
+@media (min-width: 350px) and (max-width: 570px) {
+    
+    .mob-logo{
+        margin: 13vmin 0 0 0;
+        width: 200px;
+        height: 100px;
+    }
+    .mob-icons{
+        visibility: hidden;
+    }
+    .mob-jumbo{
+        width: 100vh;
+        font-size: 60px;
+        text-align: center;
+    }
+    .mob-flex{
+        display: flex;
+        flex-direction: column;
+    }
+    .mob-text{
+        font-size: 45px;
+        width: 100vh;
+        text-align: center;
+    }
+    .mob-text1{
+        font-size: 30px;
+        width: 100vh;
+        text-align: center;
+        
+    }
+    .mob-flex1{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .mob-img{
+        display: none;
+    
+    }
+    .mob-discover{
+        margin-top: 110vmin;
+        margin-left: 40vmin;
+        width: 50vh;
+        font-size: 30px;
+        text-align: center;
+    }
+    .mob-who{
+        margin-top: 80vmin;
+        width: 100vh;
+        margin-left: 0;
+    }
+    .mob-mang{
+        width: 100vh;
+    }
+    .mob-prof{
+        width: 80vh;
+    }
+    .mob-img-brand{
+        width: 150px;
+        margin: 5vmin 6vmin;
+    }
+    .grey{
+        background-color: white;
+        margin: 35vmin 0 0 0;
+        width: 80vh;
+    }
+    .mob-rev{
+        width: 100vh;
+    }
+    .mob-list{
+        width: 100vh;
+        font-size: 30px;
+    }
+    .footer-img{
+        width: 100vh;
+    }
+    
+} 
+
+@media (min-width: 800px) and (max-width: 1200px){
+    
+    .tab-flex{
+        display: flex;
+        flex-direction: column;
+    }
+    .tab-jumbo{
+        width: 100%;
+    }
 }
